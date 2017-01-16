@@ -1,1 +1,2 @@
 /etc/puppetlabs/r10k/r10k.yaml
+/etc/puppet/hiera.yaml
