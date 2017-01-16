@@ -1,4 +1,4 @@
-class profile::vim {
+class profile::base {
   class {'::vim':
  }
 }
