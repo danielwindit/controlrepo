@@ -1,3 +1,5 @@
 mod 'puppetlabs/apache'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
+mod 'example42-vim'
+mod 'example42-puppi'
