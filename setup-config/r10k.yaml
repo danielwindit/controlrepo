@@ -1,0 +1,9 @@
+---
+:cachedir: /var/cache/r10k
+proxy: http://192.168.135.32:8080
+
+:sources:
+  :base:
+    basedir: /etc/puppet/environments/
+    prefix: false
+    remote: https://github.com/danielwindit/controlrepo.git
