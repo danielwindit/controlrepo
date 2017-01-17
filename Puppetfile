@@ -6,4 +6,4 @@ mod 'example42-puppi', '2.2.1'
 mod 'puppetlabs-firewall', '1.8.2'
 
 mod 'motd',
- :git => 'https://github.com/danielwindit/modules.git'
+ :git => 'https://github.com/danielwindit/motd.git'
