@@ -5,8 +5,5 @@ node 'luamx6.ad.lab.post21.nl' {
 } 
 
 node 'luamk1.ad.lab.post21.nl' {
-class { 'ansible':
-  ensure => 'master'
-  provider => 'automatic'
- }
+class {'::ansible' }
 }
