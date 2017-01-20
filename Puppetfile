@@ -22,5 +22,4 @@ mod 'maestrodev-rvm', '1.13.1'
 mod 'golja-gnupg', '1.2.3'
 mod 'puppetlabs-mysql', '3.10.0'
 mod 'puppet-staging', '2.1.0'
-mod 'puppetlabs-nginx', '99.99.99'
-
+mod 'jfryman-nginx', '999.999.999'
