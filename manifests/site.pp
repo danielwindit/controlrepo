@@ -5,7 +5,7 @@ node 'luamx6.ad.lab.post21.nl' {
   class {'::ansible' }
 }
 
-node 'luamy1.ad.lab.post21.nl' {
+node 'default' {
   include profile::base
 }
 
