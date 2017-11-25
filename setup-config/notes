@@ -1,0 +1,7 @@
+ These are the paths where the config files need to be
+/etc/puppetlabs/r10k/r10k.yaml
+/etc/puppet/hiera.yaml
+
+ gem install r10k
+ gem install librarian-puppet
+

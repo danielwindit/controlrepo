@@ -1,0 +1,3 @@
+---
+vim::params::package: 'vim-enhanced'
+motd::params::motd: 'blabla'
